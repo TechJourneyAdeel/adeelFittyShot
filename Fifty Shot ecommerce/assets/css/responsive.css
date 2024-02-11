@@ -1,0 +1,1335 @@
+@media only screen and (max-width: 1420px) {
+    .value-stack .vs-ico {
+        width: 80px;
+        height: 80px;
+    }
+
+    .value-stacks-row .value-stack {
+        gap: 20px;
+    }
+
+    .value-stack .vs-cntnt h3 {
+        font-size: 22px;
+        max-width: 200px;
+    }
+
+}
+
+
+@media only screen and (max-width: 1300px) {
+    .container {
+        padding: 0px 30px;
+    }
+
+    .prod-slider-sec-title,
+    .prod-slider-sec-cntnt {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .container {
+        padding: 0px 15px;
+    }
+
+    .prod-slider-sec-title,
+    .prod-slider-sec-cntnt {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .vaping-solution-cntnt-holder .secondary-swiper-next {
+        right: -10px;
+    }
+
+    .vaping-solution-cntnt-holder .secondary-swiper-prev {
+        left: -10px;
+    }
+
+
+}
+
+
+
+
+@media only screen and (max-width: 1024px) {
+
+
+    .main-banner-sec {
+        padding: 200px 0px 120px;
+    }
+
+    .banner-content-holder h1 {
+        font-size: 58px;
+        line-height: 70px;
+        max-width: 730px;
+    }
+
+
+    .value-stacks-sec {
+        padding: 60px 0px;
+    }
+
+    .value-stacks-row {
+        gap: 15px;
+    }
+
+    .value-stacks-row .value-stack {
+        padding: 15px;
+        gap: 15px;
+    }
+
+    .value-stack .vs-ico {
+        width: 60px;
+        height: 60px;
+        padding: 14px;
+    }
+
+    .value-stack .vs-cntnt h3 {
+        font-size: 18px;
+        max-width: 180px;
+    }
+
+    .prod-slider-sec-title h2 {
+        font-size: 42px;
+    }
+
+    .product-card .prod-content h3 {
+        font-size: 20px;
+    }
+
+    .site-note-title-sec {
+        padding: 70px 0px 70px;
+    }
+
+    .note-title-holder h2 {
+        font-size: 42px;
+        max-width: 700px;
+    }
+
+    .industry-cntnt-hodler h2 {
+        font-size: 42px;
+        max-width: 560px;
+    }
+
+    .quality-vape-sec {
+        padding: 80px 0px 60px;
+    }
+
+    .quality-vape-title h2 {
+        font-size: 42px;
+        max-width: 800px;
+    }
+
+    .quality-vape-row {
+        margin: 60px 0px 60px;
+        gap: 15px;
+    }
+
+    .vape-card-top .vape-card-ico {
+        height: 60px;
+        width: 60px;
+        padding: 15px 12px;
+    }
+
+    .quality-vape-card .vape-card-top {
+        gap: 15px;
+    }
+
+    .quality-vape-card .vape-card-top h3 {
+        font-size: 22px;
+    }
+
+    .offered-products-grid {
+        gap: 15px;
+    }
+
+    .offered-product {
+        padding: 30px;
+    }
+
+    .offered-product-cntnt-wrap h3 {
+        font-size: 36px;
+    }
+
+    .offered-product-cntnt-wrap span {
+        font-size: 18px;
+    }
+
+    .offered-product-cntnt-wrap button {
+        margin-top: 30px;
+    }
+
+    .offered-product .offered-product-cntnt-wrap {
+        min-height: auto;
+    }
+
+    .vaporizer-sec-title h2 {
+        font-size: 42px;
+        max-width: 780px;
+    }
+
+    .vaporizer-cntnt h3 {
+        font-size: 38px;
+    }
+
+    .vaporizer-cntnt p {
+        margin-top: 15px;
+    }
+
+    .vaporizer-cntnt-holder {
+        grid-template-columns: 60% 1fr;
+    }
+
+    .vaporizer-cntnt a {
+        margin-top: 40px;
+    }
+
+    .prod-showcase-acc-title h2 {
+        font-size: 42px;
+        max-width: 960px;
+    }
+
+    .prod-showcase-acc-title h2 br {
+        display: none;
+    }
+
+    .prod-showcase-acc-row {
+        gap: 15px;
+        flex-direction: column;
+    }
+
+    .prod-acc-front {
+        padding: 20px 15px 0px;
+        min-height: 360px;
+    }
+
+    .prod-acc-front h3 {
+        font-size: 18px;
+    }
+
+    .prod-acc-back h4 {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .prod-acc-back ul li {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .prod-acc-back a {
+        margin-top: 30px;
+        font-size: 14px;
+    }
+
+    .prod-acc-back a::after {
+        width: 12px;
+    }
+
+    .prod-showcase-accordion .prod-toggler {
+        bottom: 15px;
+        right: 15px;
+        height: 40px;
+        width: 40px;
+    }
+
+    .prod-showcase-accordion {
+        max-height: 500px;
+        display: flex !important;
+        background-size: cover;
+        margin: 0px 5px;
+    }
+
+    .prod-acc-front .prod-acc-image img {
+        max-height: 250px;
+    }
+
+    .prod-showcase-accordion {
+        flex: 2.1;
+        gap: 30px;
+    }
+
+    .prod-showcase-accordion .prod-acc-back,
+    .prod-showcase-accordion.active .prod-acc-back {
+        flex: 2;
+        opacity: 1;
+        transform: scalex(1);
+    }
+
+    .prod-showcase-accordion .prod-toggler {
+        opacity: 0;
+        pointer-events: none;
+    }
+
+    .prod-showcase-acc-row .slick-dots {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 6px;
+    }
+
+    .prod-showcase-acc-row .slick-dots li {
+        border: none;
+        outline: none;
+        font-size: 0px;
+        color: transparent;
+        display: block;
+        height: 8px;
+        width: 8px;
+        background: #000;
+        border-radius: 20px;
+        transition: all 0.3s;
+        cursor: pointer;
+        opacity: 0.5;
+    }
+
+    .prod-showcase-acc-row .slick-dots li button {
+        display: none;
+    }
+
+    .prod-showcase-acc-row .slick-dots li.slick-active {
+        width: 30px;
+        opacity: 1;
+    }
+
+    .prod-showcase-acc-sec {
+        padding: 60px 0px 80px;
+    }
+
+    .tooltip-info {
+        padding: 15px;
+        min-height: 90px;
+    }
+
+    .tooltip-info p {
+        font-size: 12px;
+        line-height: 16px;
+    }
+
+    .tooltip {
+        padding-top: calc(24px + 10px);
+    }
+
+    .vaping-solution-sec {
+        padding: 80px 0px;
+    }
+
+    .vaping-solution-top {
+        gap: 30px;
+        grid-template-columns: 100%;
+    }
+
+    .vaping-solution-top-col1 h2 {
+        font-size: 42px;
+        text-align: center;
+        margin: 0 auto;
+        max-width: 800px;
+    }
+
+    .vaping-solution-top-col2 h3 {
+        text-align: center;
+        max-width: 800px;
+        margin: 0 auto 30px;
+    }
+
+    .vaping-solution-top-col2 a {
+        margin: 60px auto 0px;
+    }
+
+
+
+    .secondary-product-info h4 {
+        font-size: 26px;
+    }
+
+    .confidence-title h2 {
+        font-size: 42px;
+        max-width: 1000px;
+    }
+
+    .confidence-cntnt-holder {
+        grid-template-columns: 250px 1fr;
+    }
+
+    .confidence-step .step-count {
+        height: 70px;
+        width: 70px;
+        border-width: 8px;
+    }
+
+    .confidence-step.active .step-count {
+        background-size: 40%;
+    }
+
+    .confidence-step .step-count::before {
+        font-size: 22px;
+    }
+
+    .confidence-step::after,
+    .confidence-step::before {
+        width: 6px;
+        left: 33px;
+    }
+
+    .confidence-step h3 {
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+
+    .confidence-step p br {
+        display: none;
+    }
+
+    .confidence-step p {
+        line-height: 24px;
+    }
+
+    .leading-sec {
+        padding: 80px 0px;
+    }
+
+    .leading-title h2 {
+        font-size: 42px;
+        font-style: normal;
+        max-width: 840px;
+    }
+
+    .leading-logos-row {
+        gap: 60px;
+    }
+
+    .testimonials-sec {
+        padding: 80px 0px 70px;
+    }
+
+    .testimonial-sec-title-col h2 {
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        margin-bottom: 50px;
+        max-width: 500px;
+    }
+
+    .testimonial-sec-title-col p {
+        line-height: 24px;
+    }
+
+    .reliable-c1 {
+        padding: 60px 15px 175px;
+    }
+
+    .reliable-c2 {
+        padding: 60px 15px 190px 30px;
+    }
+
+    .reliable-c2 h2 {
+        font-size: 36px;
+        font-weight: 500;
+    }
+
+    .reliable-c2 p {
+        line-height: 24px;
+        margin-top: 20px;
+    }
+
+    .reliable-c2 a {
+        margin-top: 50px;
+    }
+
+    .delivery-box {
+        padding: 60px;
+    }
+
+    .delivery-sec {
+        padding: 0px 0px 80px;
+    }
+
+    .delivery-box h2 {
+        font-size: 42px;
+        max-width: 880px;
+    }
+
+    .time-sec-row .time-sec-col1 {
+        padding: 75px 30px 75px 15px;
+    }
+
+    .time-sec-col1 h2 {
+        font-size: 42px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        margin-bottom: 30px;
+    }
+
+    .time-sec-col1 p {
+        font-size: 22px;
+    }
+
+    .time-sec-col2,
+    .time-sec-col2 img {
+        height: 100%;
+    }
+
+    .blogs-sec {
+        padding: 80px 0px;
+    }
+
+    .blogs-sec-title h2 {
+        font-size: 42px;
+    }
+
+    .blogs-sec-row {
+        gap: 20px;
+    }
+
+    .blog-card .blog-content h3 {
+        font-size: 22px;
+        margin: 15px 0px 20px;
+    }
+
+    .blog-card .blog-content p {
+        line-height: 22px;
+    }
+
+    .follow-us-title h2 {
+        font-size: 42px;
+    }
+
+    .follow-us-cntnt {
+        margin-top: 60px;
+    }
+
+    .contact-sec {
+        padding: 80px 0px;
+    }
+
+    .contact-col1 h2 {
+        font-size: 42px;
+        margin-bottom: 40px;
+    }
+
+    .contact-col1 form .inp-fields-holder {
+        gap: 20px;
+    }
+
+    .inp-fields-holder textarea {
+        height: 180px;
+    }
+
+    .foot-top .footer-row {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+
+
+
+    /* CONTACT PAGE 1024 */
+
+    .inner-banner-cntnt h1 {
+        font-size: 58px;
+        line-height: 70px;
+    }
+
+    .page-contact-section {
+        padding: 80px 0px 40px;
+    }
+
+    .page-contact-title h2 {
+        font-size: 42px;
+    }
+
+    .page-contact-form-holder {
+        gap: 15px;
+    }
+
+    .page-map-sec {
+        padding: 40px 0px 100px;
+    }
+}
+
+
+
+@media only screen and (max-width: 768px) {
+    .main-banner-sec {
+        padding: 200px 0px 100px;
+    }
+
+    .banner-content-holder h1 {
+        font-size: 44px;
+        line-height: 56px;
+        max-width: 600px;
+    }
+
+    .banner-content-holder a {
+        padding: 20px 30px;
+    }
+
+    .value-stacks-row {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .product-slider-sec {
+        padding: 60px 0px;
+    }
+
+    .prod-slider-sec-title h2 {
+        font-size: 34px;
+    }
+
+    .slider-nav .product-swiper-prev,
+    .slider-nav .product-swiper-next {
+        height: 40px;
+        width: 40px;
+    }
+
+    .slider-nav .product-swiper-prev::after,
+    .slider-nav .product-swiper-next::after {
+        background-size: 15px;
+    }
+
+    .prod-slider-sec-cta a {
+        padding: 20px 30px;
+    }
+
+    .site-note-title-sec {
+        padding: 60px 0px;
+    }
+
+    .note-title-holder h2 {
+        font-size: 34px;
+        max-width: 580px;
+    }
+
+    .industry-sec {
+        padding: 60px 0px;
+    }
+
+    .industry-cntnt-hodler h2 {
+        font-size: 32px;
+        max-width: 420px;
+    }
+
+    .industry-cntnt-hodler h3 {
+        font-size: 20px;
+        max-width: 640px;
+    }
+
+    .quality-vape-sec {
+        padding: 60px 0px 40px;
+    }
+
+    .quality-vape-title h2 {
+        font-size: 34px;
+        max-width: 620px;
+    }
+
+    .quality-vape-row {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .quality-vape-title p {
+        font-size: 18px;
+    }
+
+    .quality-vape-cta a {
+        padding: 20px 30px;
+    }
+
+    .offered-products-sec {
+        padding: 40px 0px;
+    }
+
+    .offered-product {
+        padding: 20px;
+    }
+
+    .offered-product-cntnt-wrap h3 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    .offered-product-cntnt-wrap span {
+        font-size: 16px;
+        margin: 20px 0px;
+    }
+
+    .offered-product-cntnt-wrap button {
+        padding: 14px 30px;
+    }
+
+    .vaporizer-sec {
+        padding: 40px 0px 60px;
+    }
+
+    .vaporizer-sec-title h2 {
+        font-size: 34px;
+        max-width: 560px;
+    }
+
+    .vaporizer-cntnt-holder {
+        grid-template-columns: 100%;
+    }
+
+    .prod-showcase-acc-title span {
+        font-size: 24px;
+    }
+
+    .prod-showcase-acc-title h2 {
+        font-size: 34px;
+        max-width: 760px;
+    }
+
+    .vaping-solution-sec {
+        padding: 60px 0px;
+    }
+
+    .vaping-solution-top-col1 h2 {
+        font-size: 34px;
+        max-width: 660px;
+    }
+
+    .vaping-solution-top-col2 h3 {
+        font-size: 24px;
+        max-width: 670px;
+    }
+
+    .vaping-solution-top-col2 a {
+        margin: 40px auto 0px;
+        padding: 17px 36px;
+    }
+
+    .confidence-sec {
+        padding: 60px 0px;
+    }
+
+    .confidence-cntnt-holder {
+        grid-template-columns: 160px 1fr;
+    }
+
+    .confidence-title h2 {
+        font-size: 34px;
+        max-width: 630px;
+    }
+
+    .confidence-step .step-count {
+        height: 60px;
+        width: 60px;
+    }
+
+    .confidence-step::after,
+    .confidence-step::before {
+        left: 27px;
+    }
+
+    .confidence-step-holder .confidence-step {
+        grid-template-columns: 60px 1fr;
+    }
+
+    .confidence-step .confidence-txt-wrap {
+        padding-top: 15px;
+    }
+
+    .confidence-step h3 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+
+    .confidence-cta a {
+        margin-top: 50px;
+        padding: 17px 30px;
+    }
+
+    .leading-sec {
+        padding: 60px 0px;
+    }
+
+    .leading-title h2 {
+        font-size: 34px;
+        max-width: 540px;
+    }
+
+    .leading-logos-row {
+        gap: 40px;
+    }
+
+    .leading-logos-row .leading-logo-col img {
+        height: 100px;
+        width: 100px;
+    }
+
+    .testimonials-sec {
+        padding: 60px 0px 70px;
+    }
+
+    .testimonial-sec-row {
+        grid-template-columns: 100%;
+        gap: 80px;
+    }
+
+    .testimonial-sec-title-col h2 {
+        text-align: center;
+        margin: 0 auto 40px;
+    }
+
+    .testimonial-sec-title-col p {
+        text-align: center;
+        margin: 20px auto 0;
+        max-width: 560px;
+    }
+
+    .tst-content p {
+        line-height: 24px;
+    }
+
+    .testimonial-slider-col .tst-pagination .swiper-pagination-bullet {
+        height: 7px;
+        width: 7px;
+        margin: 0px 3px;
+    }
+
+    .reliable-row {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .reliable-c1 {
+        padding: 60px 15px 60px;
+    }
+
+    .reliable-c2 {
+        padding: 60px 15px 190px 15px;
+    }
+
+    .delivery-sec {
+        padding: 0px 0px 60px;
+    }
+
+    .delivery-box {
+        padding: 50px 30px;
+    }
+
+    .delivery-box h2 {
+        font-size: 34px;
+        max-width: 880px;
+    }
+
+    .delivery-box ul {
+        padding-left: 20px;
+        margin: 30px 0px 20px;
+    }
+
+    .delivery-box h3 {
+        font-size: 22px;
+        margin: 20px 0px;
+    }
+
+    .time-sec-row {
+        grid-template-columns: 100%;
+    }
+
+    .time-sec-col1 h2 {
+        font-size: 34px;
+    }
+
+    .time-sec-col1 p {
+        font-size: 20px;
+        max-width: 540px;
+    }
+
+    .time-sec-col2 {
+        display: none;
+    }
+
+    .blogs-sec {
+        padding: 60px 0px;
+    }
+
+    .blogs-sec-title h2 {
+        font-size: 34px;
+    }
+
+    .blogs-sec-row {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 60px 20px;
+    }
+
+    .blog-card .blog-image img {
+        border-radius: 10px;
+    }
+
+    .blog-card .blog-content h3 {
+        font-size: 20px;
+        margin: 10px 0px 15px;
+    }
+
+    .follow-us-sec {
+        padding: 60px 0px;
+    }
+
+    .follow-us-title h2 {
+        font-size: 34px;
+    }
+
+    .follow-us-cntnt {
+        margin-top: 40px;
+    }
+
+    .contact-sec {
+        padding: 60px 0px;
+    }
+
+    .contact-sec-row {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .contact-col1 h2 {
+        font-size: 34px;
+    }
+
+    .contact-col2 :is(iframe, img) {
+        aspect-ratio: 100/80;
+    }
+
+
+
+
+
+
+
+    /* CONTACT PAGE 768 */
+
+    .inner-banner-cntnt h1 {
+        font-size: 44px;
+        line-height: 56px;
+    }
+
+    .inner-banner-sec {
+        padding: 179px 0px 60px;
+    }
+
+    .page-contact-section {
+        padding: 60px 0px 30px;
+    }
+
+    .page-contact-title h2 {
+        font-size: 34px;
+        text-align: center;
+    }
+
+    .page-contact-row {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 40px;
+    }
+
+    .page-contact-form-holder button {
+        width: 100%;
+    }
+
+    .page-contact-col2 ul {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 30px;
+    }
+
+}
+
+
+
+
+
+@media only screen and (max-width: 575px) {
+    .banner-content-holder h1 {
+        font-size: 30px;
+        line-height: 44px;
+        max-width: 400px;
+    }
+
+    .banner-content-holder p {
+        font-size: 16px;
+    }
+
+    .value-stacks-row {
+        grid-template-columns: 100%;
+    }
+
+    .value-stacks-row .value-stack {
+        width: 100%;
+        max-width: 330px;
+        margin: 0 auto;
+    }
+
+    .prod-slider-sec-title {
+        flex-direction: column;
+        gap: 40px;
+        position: relative;
+        padding-bottom: 40px;
+    }
+
+    .prod-slider-sec-title h2 {
+        font-size: 26px;
+        text-align: center;
+    }
+
+    .prod-slider-sec-title .slider-nav {
+        width: auto;
+        position: absolute;
+        left: 15px;
+        bottom: -50px;
+        right: 15px;
+    }
+
+    .site-note-title-sec {
+        padding: 50px 0px;
+    }
+
+    .note-title-holder h2 {
+        font-size: 26px;
+    }
+
+    .industry-sec {
+        padding: 50px 0px;
+    }
+
+    .product-slider-sec {
+        padding: 50px 0px;
+    }
+
+    .value-stacks-sec {
+        padding: 50px 0px;
+    }
+
+    .main-banner-sec {
+        padding: 140px 0px 60px;
+    }
+
+    .industry-cntnt-hodler h2 {
+        font-size: 26px;
+        max-width: 420px;
+    }
+
+    .industry-cntnt-hodler ul {
+        padding-left: 20px;
+    }
+
+    .quality-vape-sec {
+        padding: 50px 0px 30px;
+    }
+
+    .quality-vape-title h2 {
+        font-size: 26px;
+        max-width: 350px;
+    }
+
+    .quality-vape-row {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .offered-products-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .offered-product:nth-child(1) {
+        grid-row: auto;
+        aspect-ratio: 70/100;
+    }
+
+    .offered-product-cntnt-wrap h3 {
+        font-size: 26px;
+        margin-bottom: 15px;
+    }
+
+    .offered-product-cntnt-wrap span {
+        font-size: 14px;
+        margin: 15px 0px;
+    }
+
+    .offered-product-cntnt-wrap button {
+        font-size: 14px;
+    }
+
+    .vaporizer-sec {
+        padding: 30px 0px 50px;
+    }
+
+    .vaporizer-sec-title h2 {
+        font-size: 26px;
+        max-width: 440px;
+    }
+
+    .vid-play-ovrlay img {
+        max-width: 60px;
+    }
+
+    .vaporizer-cntnt h3 {
+        font-size: 32px;
+    }
+
+    .prod-showcase-acc-sec {
+        padding: 40px 0px 50px;
+    }
+
+    .prod-showcase-acc-title span {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+
+    .prod-showcase-acc-title h2 {
+        font-size: 26px;
+        max-width: 450px;
+    }
+
+    .prod-acc-front {
+        flex-direction: row;
+        min-height: auto;
+        padding: 20px;
+        align-items: center;
+    }
+
+    .prod-showcase-accordion,
+    .prod-showcase-accordion.active {
+        flex-direction: column;
+        gap: 20px;
+        max-height: 650px;
+    }
+
+    .prod-acc-front h3 {
+        font-size: 16px;
+        flex: 2;
+    }
+
+    .prod-acc-front .prod-acc-image {
+        max-height: 100px;
+        flex: 1;
+    }
+
+    .vaping-solution-sec {
+        padding: 50px 0px;
+    }
+
+    .vaping-solution-top-col1 h2 {
+        font-size: 26px;
+        max-width: 500px;
+    }
+
+    .vaping-solution-top-col2 h3 {
+        font-size: 22px;
+    }
+
+    .secondary-product-info button {
+        padding: 20px 40px;
+    }
+
+    .confidence-sec {
+        padding: 50px 0px;
+    }
+
+    .confidence-title h2 {
+        font-size: 26px;
+        max-width: 480px;
+    }
+
+    .confidence-cntnt-holder {
+        grid-template-columns: 1fr;
+    }
+
+    .confidence-col1 {
+        display: none;
+    }
+
+    .confidence-cta a {
+        margin: 50px auto 0px;
+    }
+
+    .leading-sec {
+        padding: 50px 0px;
+    }
+
+    .leading-title h3 {
+        font-size: 20px;
+    }
+
+    .leading-title h2 {
+        font-size: 26px;
+        max-width: 440px;
+    }
+
+    .leading-logos-row {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .leading-logos-row .leading-logo-col img {
+        height: 80px;
+        width: 80px;
+    }
+
+    .testimonials-sec {
+        padding: 50px 0px 50px;
+    }
+
+    .testimonial-sec-title-col h2 {
+        font-size: 28px;
+        max-width: 400px;
+    }
+
+    .testimonial-sec-title-col p {
+        max-width: 400px;
+    }
+
+    .reliable-c2 h2 {
+        font-size: 28px;
+    }
+
+    .delivery-box h2 {
+        font-size: 26px;
+    }
+
+    .delivery-box h3 {
+        font-size: 20px;
+    }
+
+    .time-sec-col1 h2 {
+        font-size: 26px;
+    }
+
+    .delivery-box a {
+        margin-top: 40px;
+        padding: 15px 25px;
+        font-size: 13px;
+    }
+
+    .time-sec-col1 p {
+        font-size: 18px;
+        max-width: 440px;
+    }
+
+    .blogs-sec {
+        padding: 50px 0px;
+    }
+
+    .blogs-sec-title h2 {
+        font-size: 26px;
+    }
+
+    .blogs-sec-row {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .blog-card {
+        max-width: 340px;
+        margin: 0 auto;
+    }
+
+    .follow-us-sec {
+        padding: 50px 0px;
+    }
+
+    .follow-us-title h2 {
+        font-size: 26px;
+    }
+
+    .contact-sec {
+        padding: 50px 0px 60px;
+    }
+
+    .contact-col1 h2 {
+        font-size: 26px;
+    }
+
+    .foot-top .footer-row {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .site-footer .foot-top {
+        padding: 20px 0px 40px;
+    }
+
+    .foot-col .foot-logo a {
+        margin: 0 auto;
+    }
+
+    .foot-col {
+        text-align: center;
+    }
+
+    .foot-col .socials {
+        justify-content: center;
+    }
+
+    .foot-col h3 {
+        margin-top: 0px;
+    }
+
+    .foot-col:not(.col-1) ul li a {
+        margin-top: 5px;
+    }
+
+
+
+
+
+
+    /* CONTACT PAGE 768 */
+
+    .inner-banner-cntnt h1 {
+        font-size: 36px;
+        line-height: 44px;
+    }
+
+    .inner-banner-sec {
+        padding: 140px 0px 60px;
+    }
+
+    .page-contact-section {
+        padding: 50px 0px 30px;
+    }
+
+    .page-contact-title h2 {
+        font-size: 26px;
+    }
+
+    .page-contact-row {
+        margin-top: 40px;
+    }
+
+    .page-contact-form-holder input,
+    .page-contact-form-holder select,
+    .page-contact-form-holder textarea {
+        padding: 15px;
+        line-height: 22px;
+    }
+
+    .page-contact-form-holder textarea {
+        min-height: 150px;
+    }
+
+    .page-contact-form-holder button {
+        font-size: 14px;
+    }
+
+    .page-contact-col2 ul {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 0px;
+    }
+
+    .page-contact-col2 ul li a .ico {
+        height: 50px;
+        width: 50px;
+        padding: 15px;
+    }
+
+    .page-contact-col2 ul li a {
+        line-height: 20px;
+    }
+
+    .page-contact-form-holder select {
+        background-size: 10px;
+    }
+
+    .page-map-sec {
+        padding: 40px 0px 40px;
+    }
+
+}
